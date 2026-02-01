@@ -82,7 +82,7 @@ Retail-Sales-Analysis-Excel
 └── README.md
 </pre>
 
-##🧠 Learning Outcomes
+## 🧠 Learning Outcomes
 
 - Translating business questions into analytics
 - Creating professional dashboards in Excel
